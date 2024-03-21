@@ -302,7 +302,7 @@ return (
 We can debug our code by following these steps:
 
 - Deploy frontend with `npm start`
-- Open the debug view located in Visual Studio Code, left menu, tab 'Debug', and run the configuration 'Debug React Native'.
+- Open the debug view located in Visual Studio Code, left menu, tab 'Debug', and run the configuration 'Debug Frontend'.
 - This will launch a new Chrome window with the application running with debug capabilities activated.
 
 Now you can include breakpoints within your code by clicking on the left margin of your code line. VS Code will pop up when the breakpoint is reached.
