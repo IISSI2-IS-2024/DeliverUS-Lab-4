@@ -21,7 +21,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Debug Frontend",
-            "url": "http://localhost:19006",
+            "url": "http://localhost:8081",
             "webRoot": "${workspaceFolder}"
         }
     ]
